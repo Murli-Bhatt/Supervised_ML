@@ -8,3 +8,4 @@ I built this while learning ML concepts step-by-step with a focus on practical u
 - Implement models using Scikit-learn  
 - Learn data preprocessing and visualization  
 - Improve problem-solving using ML  
+“All implementations are done using Python in Jupyter Notebooks.”
